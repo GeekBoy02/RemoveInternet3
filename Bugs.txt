@@ -1,0 +1,3 @@
+List of Bugs to fix:
+
+1) if App to block contains "!" RemoveInternet2 crashes
